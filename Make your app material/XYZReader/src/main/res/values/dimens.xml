@@ -1,0 +1,32 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">18sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="action_up_width">56dp</dimen>
+    <dimen name="floating_button_margin">16dp</dimen>
+    <dimen name="default_fab_elevation">8dp</dimen>
+    <dimen name="default_toolbar_elevation">4dp</dimen>
+    <dimen name="recycler_view_padding_top">60dp</dimen>
+    <dimen name="recycler_view_padding_bottom">28dp</dimen>
+    <dimen name="expanded_title">60dp</dimen>
+    <dimen name="appbar_detail_height">255dp</dimen>
+    <dimen name="meta_bar_padding">20dp</dimen>
+    <dimen name="article_padding_left">20dp</dimen>
+    <dimen name="article_padding_right">20dp</dimen>
+    <dimen name="article_padding_top">20dp</dimen>
+    <dimen name="article_padding_bottom">140dp</dimen>
+    <dimen name="card_view_margin">4dp</dimen>
+    <dimen name="card_min_hight">100dp</dimen>
+    <dimen name="article_title_padding_left">5dp</dimen>
+    <dimen name="article_title_padding_right">5dp</dimen>
+    <dimen name="article_title_padding_top">5dp</dimen>
+    <dimen name="article_title_padding_bottom">0dp</dimen>
+    <dimen name="article_title_padding_top_2">0dp</dimen>
+    <dimen name="article_title_padding_bottom_2">5dp</dimen>
+</resources>
